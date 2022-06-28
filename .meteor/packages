@@ -1,0 +1,20 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-base@1.5.1
+autopublish@1.0.7
+insecure@1.0.7
+session@1.2.0
+blaze-html-templates
+mongo@1.12.0
+random@1.2.0
+standard-minifier-css@1.7.3
+standard-minifier-js@2.6.1
+shell-server@0.5.0
+dynamic-import@0.7.1
+jquery
+ecmascript@0.15.2
+blaze
